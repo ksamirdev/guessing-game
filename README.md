@@ -1,10 +1,10 @@
 # Guessing Game :game_die:
 
-Welcome to the guessing game! :tada: This is a simple game written in Rust where you need to guess a number between 1 to 100. :thinking:
+Welcome to the guessing game! :tada: This is a simple game written in Rust where you need to guess a number between 1 to 101. :thinking:
 
 ## How to Play
 
-To start the game, simply run the command ./guessing_game in your terminal window. You will be prompted to enter your guess. :keyboard:
+To start the game, simply run the command `./guessing_game` in your terminal window. You will be prompted to enter your guess. :keyboard:
 
 If your guess is higher than the number, you will be notified with the message "Too high!". If your guess is lower than the number, you will be notified with the message "Too low!". :arrow_up_down:
 
